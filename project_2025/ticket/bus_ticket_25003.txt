@@ -1,0 +1,31 @@
+
+======================================
+BUS TICKET
+======================================
+Passenger Details:
+  Name    : gg
+  Age     : 21
+  Gender  : f
+  Contact : 12345
+
+Journey Details:
+  Bus ID : DU103
+  Bus Type: NonACBus
+  Pickup Point : morbi
+  Drop Point   : surat
+
+Booking Details:
+  Booking ID  : DUT25003
+Booking Date/time   : Fri Nov 14 22:28:36 IST 2025
+  Journey Date   : 12-12-234
+ No of Seats Booked : 3
+  Seat Numbers: 2, 6, 9
+  Total Fare: 10552.5
+  Discount Applied  : 10.0%
+  Payable Amount : 9497.25
+Payment Status: Pending
+
+Terms & Conditions:
+  1. Ticket is non-transferable.
+  2. In case of cancellation, refund rules apply.
+======================================

@@ -1,0 +1,30 @@
+
+======================================
+BUS TICKET
+======================================
+Passenger Details:
+  Name    : vidhi
+  Age     : 21
+  Gender  : f
+  Contact : 12345
+
+Journey Details:
+  Bus ID : DU101
+  Bus Type: ACBus
+  Pickup Point : rjt
+  Drop Point   : ahm
+
+Booking Details:
+  Booking ID  : DUT25004
+Booking Date/time   : Fri Nov 14 22:29:30 IST 2025
+  Journey Date   : 12-12-2003
+ No of Seats Booked : 1
+  Seat Numbers: 3
+  Total Fare: 369.0
+  Payable Amount    : 369.0
+Payment Status: Pending
+
+Terms & Conditions:
+  1. Ticket is non-transferable.
+  2. In case of cancellation, refund rules apply.
+======================================
